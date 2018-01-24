@@ -1,7 +1,9 @@
 # dotfiles
+
 My dotfiles for Arch Linux
 
 To install for dotfiles:
+
 
 rxvt-unicode
 
